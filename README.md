@@ -12,7 +12,7 @@ Atuo com Inteligência Artificial e desenvolvimento de software, criando soluç�
 
 #
 
-<img align="right" alt="" height="190px" src="./src/wave-surf.gif">
+<img align="right" alt="" height="190px" src="./src/snoopy-reading.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
