@@ -1,0 +1,10 @@
+<svg width="460" height="200" viewBox="0 0 460 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="459" height="199" rx="8" fill="#000000" stroke="#ffffff"/>
+  <text x="28" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Erick Oliveira Piedade</text>
+  <text x="28" y="70" fill="#ff00f6" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">@Eikizrr</text>
+  <text x="28" y="106" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15">Estudante de ADS em Manaus, AM</text>
+  <text x="28" y="132" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">IA, seguranca da informacao e software</text>
+  <text x="28" y="158" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Transformando ideias em projetos reais</text>
+  <circle cx="408" cy="48" r="18" fill="#ff00f6"/>
+  <circle cx="390" cy="72" r="10" fill="#ffffff"/>
+</svg>
